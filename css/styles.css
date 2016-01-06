@@ -1,0 +1,39 @@
+body {
+  background-color: #f0f0f0;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+}
+
+.nav {
+  float:left;
+  width: 23%;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.main_col {
+  float: left;
+  width: 71%;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.content {
+  text-align: center;
+  
+}
+
+img {
+  max-width: 600px;
+}
+
+.clear {
+  clear: both;
+}
